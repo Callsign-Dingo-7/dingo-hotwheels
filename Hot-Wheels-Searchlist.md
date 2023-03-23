@@ -1,20 +1,18 @@
 # Hot Wheels Searchlist
 
-- [ ] Items marked with **bold** are my priority in that particular subset
-- [x] Items marked with an x to the left are things I've acquired but don't have them in hand yet.
+- Items marked with **bold** are my priority in that particular subset
+- Items marked with a checkmark [x] are things I've acquired but don't have them in hand yet.
 
 ## Mainline [Carded preferred, not a requirement]
 
-- [ ] **Spoiler Alert Track Ripper**
-- [ ] Dimachinni Veloce
-- [ ] HW KITT Concept
-- [ ] Spoiler Alert Custom 18 Ford Mustang GT
+- [ ] [Spoiler Alert Custom 18 Ford Mustang GT](https://static.wikia.nocookie.net/hotwheels/images/3/31/HCV87-01.JPG/revision/latest/scale-to-width-down/1000?cb=20220607001723)
 
 ## Premium [Carded preferred, not a requirement]
 
-- [x] **Car Culture 2023 Speed Machines Set**
-- [ ] **Car Culture Lamborghini Essenza SCV12**
-- [ ] **Car Culture Mazda RX7 FC Pandem**
+- [x] [**Car Culture 2023 Speed Machines Set**](https://hotwheels.fandom.com/wiki/Car_Culture#Speed_Machines)
+- [ ] [**Car Culture Lamborghini Essenza SCV12**](https://static.wikia.nocookie.net/hotwheels/images/2/29/HCJ29.jpg/revision/latest/scale-to-width-down/1000?cb=20220815063854)
+- [ ] [**Car Culture Mazda RX7 FC Pandem**](https://static.wikia.nocookie.net/hotwheels/images/f/f6/HCJ86.jpg/revision/latest/scale-to-width-down/1000?cb=20221202095820)
+- [ ] [Car Culture Gulf '69 Ford Mustang Boss 302](https://static.wikia.nocookie.net/hotwheels/images/4/47/2019_Hot_Wheels_%2769_Ford_Mustang_Boss_302_Gulf_carded.jpg/revision/latest/scale-to-width-down/1000?cb=20181208103453)
 - [ ] Boulevard 16 Subaru WRX STI
 - [ ] Boulevard 71 Mustang Mach 1
 - [ ] Boulevard De Tomaso Pantera Gruppo 4
@@ -106,7 +104,7 @@
 - [ ] **2008 16 Angels STH**
 - [ ] **2015 RRRoadster STH**
 - [ ] **2016 Driftsta STH**
-- [ ] **2022 Custom 18 Ford Mustang GT STH**
+- [ ] [**2022 Custom 18 Ford Mustang GT STH**](https://static.wikia.nocookie.net/hotwheels/images/5/57/Custom%2718MustangGT.jpg/revision/latest/scale-to-width-down/1000?cb=20220329011512)
 - [ ] 1996 Jaguar XJ220 TH
 - [ ] 1997 Avus Quattro TH
 - [ ] 2000 Pikes Peak Celica TH
