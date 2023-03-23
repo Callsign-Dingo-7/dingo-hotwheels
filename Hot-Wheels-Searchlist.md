@@ -5,20 +5,20 @@
 
 ## Mainline [Carded preferred, not a requirement]
 
-- [ ] [Spoiler Alert Custom 18 Ford Mustang GT](https://static.wikia.nocookie.net/hotwheels/images/3/31/HCV87-01.JPG/revision/latest/scale-to-width-down/1000?cb=20220607001723)
+- [ ] [2022 Spoiler Alert Custom 18 Ford Mustang GT](https://static.wikia.nocookie.net/hotwheels/images/3/31/HCV87-01.JPG/revision/latest/scale-to-width-down/1000?cb=20220607001723)
 
 ## Premium [Carded preferred, not a requirement]
 
 - [x] [**Car Culture 2023 Speed Machines Set**](https://hotwheels.fandom.com/wiki/Car_Culture#Speed_Machines)
-- [ ] [**Car Culture Lamborghini Essenza SCV12**](https://static.wikia.nocookie.net/hotwheels/images/2/29/HCJ29.jpg/revision/latest/scale-to-width-down/1000?cb=20220815063854)
-- [ ] [**Car Culture Mazda RX7 FC Pandem**](https://static.wikia.nocookie.net/hotwheels/images/f/f6/HCJ86.jpg/revision/latest/scale-to-width-down/1000?cb=20221202095820)
+- [ ] [**Car Culture 2022 Exotic Envy Lamborghini Essenza SCV12**](https://static.wikia.nocookie.net/hotwheels/images/2/29/HCJ29.jpg/revision/latest/scale-to-width-down/1000?cb=20220815063854)
+- [ ] [**Car Culture 2022 Ronin Run Mazda RX7 FC Pandem**](https://static.wikia.nocookie.net/hotwheels/images/f/f6/HCJ86.jpg/revision/latest/scale-to-width-down/1000?cb=20221202095820)
+- [ ] [**Entertainment Cyberpunk 2077 Porsche 911 Turbo**](https://static.wikia.nocookie.net/hotwheels/images/7/7c/20220717_133330a.jpg/revision/latest/scale-to-width-down/1000?cb=20220720035214)
 - [ ] [Car Culture Gulf '69 Ford Mustang Boss 302](https://static.wikia.nocookie.net/hotwheels/images/4/47/2019_Hot_Wheels_%2769_Ford_Mustang_Boss_302_Gulf_carded.jpg/revision/latest/scale-to-width-down/1000?cb=20181208103453)
-- [ ] Boulevard 16 Subaru WRX STI
-- [ ] Boulevard 71 Mustang Mach 1
-- [ ] Boulevard De Tomaso Pantera Gruppo 4
-- [ ] Car Culture Lamborghini Countach LP 5000 QV
-- [ ] Entertainment Loki Thanoscopter
-- [ ] Entertainment Spider-Mobile
+- [ ] [Boulevard '71 Mustang Mach 1](https://static.wikia.nocookie.net/hotwheels/images/2/28/HCR21.jpg/revision/latest/scale-to-width-down/1000?cb=20220902114143)
+- [ ] [Boulevard De Tomaso Pantera Gruppo 4](https://static.wikia.nocookie.net/hotwheels/images/f/fb/HCR04.jpg/revision/latest/scale-to-width-down/1000?cb=20220902114441)
+- [ ] [Car Culture Lamborghini Countach LP 5000 QV](https://static.wikia.nocookie.net/hotwheels/images/6/66/HCK09.jpg/revision/latest/scale-to-width-down/1000?cb=20220908151237)
+- [ ] [Entertainment Loki Thanoscopter](https://static.wikia.nocookie.net/hotwheels/images/e/e2/Entertainment_Thanoscopter_HCP23_2022.jpg/revision/latest/scale-to-width-down/1000?cb=20220407175548)
+- [ ] [Entertainment Spider-Mobile](https://static.wikia.nocookie.net/hotwheels/images/3/3f/Entertainment_Spider-Mobile_FLD31_2022.jpg/revision/latest/scale-to-width-down/1000?cb=20220407175340)
 
 ## Series [Loose mint required]
 
@@ -82,7 +82,7 @@
 
 ### Battle Force 5
 
-- [ ] Battle Force 5 Splitwire
+- [ ] [Battle Force 5 Splitwire](https://static.wikia.nocookie.net/hotwheels/images/f/fa/Splitwirenew_%282%29.jpg/revision/latest/scale-to-width-down/1000?cb=20200208045136)
 
 ### Mario Kart
 
