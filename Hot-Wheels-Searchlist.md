@@ -9,7 +9,6 @@
 
 ## Premium [Carded preferred, not a requirement]
 
-- [x] [**Car Culture 2023 Speed Machines Set**](https://hotwheels.fandom.com/wiki/Car_Culture#Speed_Machines)
 - [ ] [**Car Culture 2022 Exotic Envy Lamborghini Essenza SCV12**](https://static.wikia.nocookie.net/hotwheels/images/2/29/HCJ29.jpg/revision/latest/scale-to-width-down/1000?cb=20220815063854)
 - [ ] [**Car Culture 2022 Ronin Run Mazda RX7 FC Pandem**](https://static.wikia.nocookie.net/hotwheels/images/f/f6/HCJ86.jpg/revision/latest/scale-to-width-down/1000?cb=20221202095820)
 - [ ] [**Entertainment Cyberpunk 2077 Porsche 911 Turbo**](https://static.wikia.nocookie.net/hotwheels/images/7/7c/20220717_133330a.jpg/revision/latest/scale-to-width-down/1000?cb=20220720035214)
@@ -86,12 +85,10 @@
 
 ### Mario Kart
 
-- [ ] Mario Kart Diddy Kong Pipe Frame
 - [ ] Mario Kart Orange Yoshi Pipe Frame
 - [ ] Mario Kart Luigi Green Pipe Frame
 - [ ] Mario Kart Mario Red Pipe-Frame
 - [ ] Mario Kart Baby Peach Pink Pipe-Frame
-- [ ] Mario Kart Lakitu Sports Coupe
 - [ ] Mario Kart Dry Bowser Standard Kart
 - [ ] Mario Kart Baby Mario Standard Kart
 
