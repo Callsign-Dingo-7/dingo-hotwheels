@@ -20,6 +20,7 @@
 - [ ] [Entertainment Spider-Mobile](https://static.wikia.nocookie.net/hotwheels/images/c/cb/Spider_Mobil-2018_Entertainment_Series-Mix_B.jpg/revision/latest?cb=20180901150318)
 - [ ] [Car Culture McLaren Senna](https://static.wikia.nocookie.net/hotwheels/images/4/4e/Premium_Car_Culture_2-Pack_McLaren_Senna_%26_McLaren_720S_Thailand_HFF97.jpg/revision/latest?cb=20230310143822)
 - [ ] [Car Culture Lexus RC F GT3](https://static.wikia.nocookie.net/hotwheels/images/f/f8/HKF51.jpg/revision/latest?cb=20230317055253)
+- [ ] [2016 Hot Wheels Entertainment Gran Turismo Ford GT1](https://static.wikia.nocookie.net/hotwheels/images/6/6b/Ford_GT_LM_-_16_Ent_Gran_Turismo_600pxOTD.jpg/revision/latest?cb=20161101062200)
 
 ## Series [Loose mint required]
 
@@ -94,56 +95,72 @@
 - [ ] [Mario Kart Dry Bowser Standard Kart](https://static.wikia.nocookie.net/hotwheels/images/e/e9/Dry_bowser_standard.jpg/revision/latest?cb=20220920220214)
 - [ ] [Mario Kart Baby Mario Standard Kart](https://static.wikia.nocookie.net/hotwheels/images/d/de/Fhl2hnxkdsznidrlen32_1500x.webp/revision/latest?cb=20230317171956)
 
+### Designer's Challenge
+
+- [ ] [Dodge XP-07](https://static.wikia.nocookie.net/hotwheels/images/8/87/DSC04977.jpg/revision/latest?cb=20140316221903)
+- [ ] [Honda Racer](https://static.wikia.nocookie.net/hotwheels/images/2/23/Designers_Challenge_Honda_Racer_White_Thailand_M3314.jpg/revision/latest?cb=20230122134507)
+- [ ] [HW40](https://static.wikia.nocookie.net/hotwheels/images/0/00/Designers_Challenge_HW40_Green_Thailand_M3315.jpg/revision/latest?cb=20230122134827)
+- [ ] [Gray Lotus Concept](https://static.wikia.nocookie.net/hotwheels/images/5/5e/Designers_Challenge_Lotus_Concept_Dark_Gray_Thailand_M3321.jpg/revision/latest?cb=20230122134907)
+- [ ] [Orange Lotus Concept](https://static.wikia.nocookie.net/hotwheels/images/1/15/Designers_Challenge_Lotus_Concept_Orange_Thailand_M3313.jpg/revision/latest?cb=20230122134926)
+- [ ] [Red Lotus Concept](https://static.wikia.nocookie.net/hotwheels/images/9/98/Designers_Challenge_Lotus_Concept_Red_Thailand_M3321.jpg/revision/latest?cb=20230122134945)
+- [ ] [Gray Mitsubishi Double Shotz](https://static.wikia.nocookie.net/hotwheels/images/f/f0/Designers_Challenge_Mitsubishi_Double_Shotz_Black_with_Black_Tires_Thailand_M3319.jpg/revision/latest?cb=20230122135052)
+- [] [White Mitsubishi Double Shotz](https://static.wikia.nocookie.net/hotwheels/images/0/00/Designers_Challenge_Mitsubishi_Double_Shotz_Light_Gray_Thailand_M3311.jpg/revision/latest?cb=20230122135130)
+
 ## Treasure Hunts [Does not matter, so long as it is in good condition]
 
-- [ ] **_2001 Roll Cage TH_**
-- [ ] **_2004 Tantrum TH_**
-- [ ] **_2006 Asphalt Assault TH_**
-- [ ] **_2006 CUL8R TH_**
-- [ ] **_2008 16 Angels STH_**
-- [ ] **_2015 RRRoadster STH_**
-- [ ] **_2016 Driftsta STH_**
-- [ ] [**_2022 Custom 18 Ford Mustang GT STH_**](https://static.wikia.nocookie.net/hotwheels/images/5/57/Custom%2718MustangGT.jpg/revision/latest/scale-to-width-down/1000?cb=20220329011512)
-- [ ] 1996 Jaguar XJ220 TH
-- [ ] 1997 Avus Quattro TH
-- [ ] 2000 Pikes Peak Celica TH
-- [ ] 2012 Honda S2000 STH
-- [ ] 2013 Fast Fish TH
-- [ ] 2014 La Fasta TH
-- [ ] 2015 AE86 Corolla STH
-- [ ] 2016 90 Acura NSX STH
-- [ ] 2017 Acura NSX STH
-- [ ] 2018 Blitzspeeder TH
-- [ ] 2019 Cyber Speeder TH
-- [ ] 2019 Fast-Bed Hauler TH
-- [ ] 2020 17 Nissan GTR R35 STH
-- [ ] 2021 2018 Honda Civic Type R STH
+- [ ] [**_2001 Roll Cage TH_**](https://static.wikia.nocookie.net/hotwheels/images/a/aa/Rolcage.jpg/revision/latest?cb=20090607080108)
+- [ ] [**_2004 Tantrum TH_**](https://static.wikia.nocookie.net/hotwheels/images/8/86/Tantrum_04TH.JPG/revision/latest?cb=20100112112630)
+- [ ] [**_2006 Asphalt Assault TH_**](https://static.wikia.nocookie.net/hotwheels/images/1/1c/Asphalt_Assault_-_06TH.jpg/revision/latest?cb=20090621233406)
+- [ ] [**_2006 CUL8R TH_**](https://static.wikia.nocookie.net/hotwheels/images/3/36/CUL8R_-_06TH.jpg/revision/latest?cb=20090621232959)
+- [ ] [**_2008 16 Angels STH_**](https://static.wikia.nocookie.net/hotwheels/images/d/df/16_ANGELS_HOT_WHEELS_SUPER_TREASURE_HUNTS.jpg/revision/latest?cb=20160122102505)
+- [ ] [**_2015 RRRoadster STH_**](https://static.wikia.nocookie.net/hotwheels/images/f/f8/Rrroadster_-_2015_HW_Racing_%24TH.JPG/revision/latest?cb=20150203235333)
+- [ ] [**_2016 Driftsta STH_**](https://static.wikia.nocookie.net/hotwheels/images/d/d0/Driftsta_-_16TH_Night_Burnerz_600pxOTD.jpg/revision/latest?cb=20161101210304)
+- [ ] [**_2022 Custom 18 Ford Mustang GT STH_**](https://static.wikia.nocookie.net/hotwheels/images/5/57/Custom%2718MustangGT.jpg/revision/latest?cb=20220329011512)
+- [ ] [1996 Jaguar XJ220 TH](https://static.wikia.nocookie.net/hotwheels/images/e/e3/Jaguar_XJ220_-_96_TH.JPG/revision/latest?cb=20100513021559)
+- [ ] [1997 Avus Quattro TH](https://static.wikia.nocookie.net/hotwheels/images/6/66/Hotwheels_030.jpg/revision/latest?cb=20120905010757)
+- [ ] [2000 Pikes Peak Celica TH](https://static.wikia.nocookie.net/hotwheels/images/4/4a/Pikes_Peak_Celica_-_00TH.jpg/revision/latest?cb=20090611065002)
+- [ ] [2012 Honda S2000 STH](https://static.wikia.nocookie.net/hotwheels/images/a/ae/Hot_wheels_011.JPG/revision/latest?cb=20170826081447)
+- [ ] [2013 Fast Fish TH](https://static.wikia.nocookie.net/hotwheels/images/e/e0/Fast_Fish-2013_125_Track_Aces_TH.jpg/revision/latest?cb=20121208151150)
+- [ ] [2014 La Fasta TH](https://static.wikia.nocookie.net/hotwheels/images/2/2c/LaFasta2014.jpg/revision/latest?cb=20140905000805)
+- [ ] [2015 AE86 Corolla STH](https://static.wikia.nocookie.net/hotwheels/images/8/82/Toyota_Corolla_AE_%28CFJ45%29_%28loose%29.jpg/revision/latest?cb=20170823004430)
+- [ ] [2016 90 Acura NSX STH](https://static.wikia.nocookie.net/hotwheels/images/1/1d/%2790_Acura_NSX_2016_TH.png/revision/latest?cb=20170117215012)
+- [ ] [2017 Acura NSX STH](https://static.wikia.nocookie.net/hotwheels/images/1/10/Storecamera_20170831180112_01.jpg/revision/latest?cb=20170901214326)
+- [ ] [2018 Blitzspeeder TH](https://static.wikia.nocookie.net/hotwheels/images/5/5d/BLITZSPEEDER_TH_FKB27.jpg/revision/latest?cb=20180319213503)
+- [ ] [2019 Cyber Speeder TH](https://static.wikia.nocookie.net/hotwheels/images/8/86/FYG01-Cyber_Speeder-1.jpg/revision/latest?cb=20200131221530)
+- [ ] [2019 Fast-Bed Hauler TH](https://static.wikia.nocookie.net/hotwheels/images/8/85/FYF97_-_Fast-Bed_Hauler-1.jpg/revision/latest?cb=20190711153549)
+- [ ] [2020 '17 Nissan GTR R35 STH](https://static.wikia.nocookie.net/hotwheels/images/b/b0/Gtrsth.JPG/revision/latest?cb=20191201212558)
+- [ ] [2021 2018 Honda Civic Type R STH](https://static.wikia.nocookie.net/hotwheels/images/9/9b/2018_Honda_Civic_Type_R_STH.jpg/revision/latest?cb=20211114063133)
+- [ ] [2022 '84 Mustang SVO](https://static.wikia.nocookie.net/hotwheels/images/9/9b/84MustangSVO.jpg/revision/latest?cb=20220530051850)
+- [ ] [2023 Tooned Batmobile STH](https://static.wikia.nocookie.net/hotwheels/images/e/e8/STH_2023A_BATMOBILE.jpg/revision/latest?cb=20220917133433)
+- [ ] [2023 '68 COPO Camaro STH](https://static.wikia.nocookie.net/hotwheels/images/8/8f/%2768COPOCamaro.jpg/revision/latest?cb=20221126144947)
+- [ ] [2023 Lotus Evija STH](https://static.wikia.nocookie.net/hotwheels/images/2/21/78bccf5402cbd84fbcf3691f00711b5.jpg/revision/latest?cb=20221126145109)
+- [ ] [2023 Renault Sport R.S.01 STH](https://static.wikia.nocookie.net/hotwheels/images/a/ab/Renault_sport_rs.jpg/revision/latest?cb=20230112103907)
+- [ ] [2023 '82 Toyota Supra STH](https://static.wikia.nocookie.net/hotwheels/images/6/68/%2782_toyota_supra.jpg/revision/latest?cb=20230227022302)
 
 ## General [Does not matter, so long as it is in good condition]
 
-- [ ] 1970 Jack Rabbit Special
-- [ ] 2003 Tooned HKS Altezza
-- [ ] 2003 Tooned Mitsubishi Eclipse
-- [ ] 2004 Tooned Toyota MR2
-- [ ] 2013 HW Race Team Blue 24 Ours
-- [ ] 2015 HW Race Metalflake Blue GT Hunter
-- [ ] 2016 Glow Wheels Chicane
-- [ ] 2016 Glow Wheels Formul8r
-- [ ] 2016 Glow Wheels SpecTyte
-- [ ] 2017 Glow Wheels 24 Ours
-- [ ] 2017 Glow Wheels Bone Speeder
-- [ ] 2017 Glow Wheels RD-02
-- [ ] 2018 Glow Wheels Hi Beam
-- [ ] 2018 Glow Wheels High Voltage
-- [ ] 2018 Glow Wheels Hollowback
-- [ ] 2018 Glow Wheels Hypertruck
-- [ ] 2018 Glow Wheels Solar Reflex
-- [ ] 2021 Glow Racers HW Warp Speeder
-- [ ] Amazoom
-- [ ] Avant Garde
-- [ ] Bedlam
-- [ ] Cadillac Cien
-- [ ] Dodge XP07
+- [ ] [1970 Jack Rabbit Special](https://static.wikia.nocookie.net/hotwheels/images/1/16/Jackrabbitspecial.jpg/revision/latest?cb=20080312162750)
+- [ ] [2003 Tooned HKS Altezza](https://static.wikia.nocookie.net/hotwheels/images/5/5b/HKS_Altezza_blkL.JPG/revision/latest?cb=20100707040212)
+- [ ] [2003 Tooned Mitsubishi Eclipse](https://static.wikia.nocookie.net/hotwheels/images/8/8a/03_Eclipse.jpg/revision/latest?cb=20081201204834)
+- [ ] [2004 Tooned Toyota MR2](https://static.wikia.nocookie.net/hotwheels/images/c/c5/WhiteMR2.jpg/revision/latest?cb=20100502101438)
+- [ ] [2013 HW Race Team Blue 24 Ours](https://static.wikia.nocookie.net/hotwheels/images/9/90/2013_24_Ours.jpg/revision/latest?cb=20121207111518)
+- [ ] [2015 HW Race Metalflake Blue GT Hunter](https://static.wikia.nocookie.net/hotwheels/images/b/bf/GTHunter.jpg/revision/latest?cb=20210930130117)
+- [ ] [2016 Glow Wheels Chicane](https://static.wikia.nocookie.net/hotwheels/images/0/02/ChicaneDHP80.jpg/revision/latest?cb=20151106033506)
+- [ ] [2016 Glow Wheels Formul8r](https://static.wikia.nocookie.net/hotwheels/images/1/1c/Formul8r_HW_Glow_Wheels.jpg/revision/latest?cb=20190429154054)
+- [ ] [2016 Glow Wheels SpecTyte](https://static.wikia.nocookie.net/hotwheels/images/b/b5/20151117_083058-1-.jpg/revision/latest?cb=20151118000256)
+- [ ] [2017 Glow Wheels 24 Ours](https://static.wikia.nocookie.net/hotwheels/images/2/20/24_Ours_DVB20.png/revision/latest?cb=20170324223714)
+- [ ] [2017 Glow Wheels Bone Speeder](https://static.wikia.nocookie.net/hotwheels/images/5/59/Hot_Wheels_3_%E0%B9%91%E0%B9%97%E0%B9%90%E0%B9%98%E0%B9%91%E0%B9%92_0032.jpg/revision/latest?cb=20170812151807)
+- [ ] [2017 Glow Wheels RD-02](https://static.wikia.nocookie.net/hotwheels/images/3/32/DTY33_c_17_003.png/revision/latest?cb=20171111044302)
+- [ ] [2018 Glow Wheels Hi Beam](https://static.wikia.nocookie.net/hotwheels/images/0/04/HiBeam_%28No252%29.JPG/revision/latest?cb=20180622022819)
+- [ ] [2018 Glow Wheels High Voltage](https://static.wikia.nocookie.net/hotwheels/images/b/b2/20F770FD-6696-4E70-9566-4021FA4B1844.jpeg/revision/latest?cb=20181203040113)
+- [ ] [2018 Glow Wheels Hollowback](https://static.wikia.nocookie.net/hotwheels/images/b/bd/37361131_1911487095815102_4104254444361744384_n.jpg/revision/latest?cb=20180718163525)
+- [ ] [2018 Glow Wheels Hypertruck](https://static.wikia.nocookie.net/hotwheels/images/b/b5/356D52F3-BEA2-44D3-8D87-E21A0E53EC67.jpeg/revision/latest?cb=20181203040020)
+- [ ] [2018 Glow Wheels Solar Reflex](https://static.wikia.nocookie.net/hotwheels/images/e/ef/2018_Solar_Reflex_yellow_blue.jpg/revision/latest?cb=20190304201035)
+- [ ] [2021 Glow Racers HW Warp Speeder](https://static.wikia.nocookie.net/hotwheels/images/7/72/Hwwarpspeeder2021glowracers.MP.jpg/revision/latest?cb=20200930174435)
+- [ ] [Amazoom](https://static.wikia.nocookie.net/hotwheels/images/c/c9/08_amazom_AGENTAIR_1.jpg/revision/latest?cb=20080921200538)
+- [ ] [Avant Garde](https://static.wikia.nocookie.net/hotwheels/images/5/55/IMG_2559.JPG/revision/latest?cb=20131230002159)
+- [ ] [Bedlam](https://static.wikia.nocookie.net/hotwheels/images/4/4b/Bedlam_-_06Mainline116.jpg/revision/latest?cb=20100130063307)
+- [ ] [Cadillac Cien](https://static.wikia.nocookie.net/hotwheels/images/a/ad/Auto_Affinity_Got_Speed_Cadillac_Cien_Green_C2638.jpg/revision/latest?cb=20220708084946)
 - [ ] Drift Rod
 - [ ] Formula Street
 - [ ] Furiosity
