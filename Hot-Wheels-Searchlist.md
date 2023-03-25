@@ -104,7 +104,7 @@
 - [ ] [Orange Lotus Concept](https://static.wikia.nocookie.net/hotwheels/images/1/15/Designers_Challenge_Lotus_Concept_Orange_Thailand_M3313.jpg/revision/latest?cb=20230122134926)
 - [ ] [Red Lotus Concept](https://static.wikia.nocookie.net/hotwheels/images/9/98/Designers_Challenge_Lotus_Concept_Red_Thailand_M3321.jpg/revision/latest?cb=20230122134945)
 - [ ] [Gray Mitsubishi Double Shotz](https://static.wikia.nocookie.net/hotwheels/images/f/f0/Designers_Challenge_Mitsubishi_Double_Shotz_Black_with_Black_Tires_Thailand_M3319.jpg/revision/latest?cb=20230122135052)
-- [] [White Mitsubishi Double Shotz](https://static.wikia.nocookie.net/hotwheels/images/0/00/Designers_Challenge_Mitsubishi_Double_Shotz_Light_Gray_Thailand_M3311.jpg/revision/latest?cb=20230122135130)
+- [ ] [White Mitsubishi Double Shotz](https://static.wikia.nocookie.net/hotwheels/images/0/00/Designers_Challenge_Mitsubishi_Double_Shotz_Light_Gray_Thailand_M3311.jpg/revision/latest?cb=20230122135130)
 
 ## Treasure Hunts [Does not matter, so long as it is in good condition]
 
@@ -161,26 +161,23 @@
 - [ ] [Avant Garde](https://static.wikia.nocookie.net/hotwheels/images/5/55/IMG_2559.JPG/revision/latest?cb=20131230002159)
 - [ ] [Bedlam](https://static.wikia.nocookie.net/hotwheels/images/4/4b/Bedlam_-_06Mainline116.jpg/revision/latest?cb=20100130063307)
 - [ ] [Cadillac Cien](https://static.wikia.nocookie.net/hotwheels/images/a/ad/Auto_Affinity_Got_Speed_Cadillac_Cien_Green_C2638.jpg/revision/latest?cb=20220708084946)
-- [ ] Drift Rod
-- [ ] Formula Street
-- [ ] Furiosity
-- [ ] Futurismo
-- [ ] Gazella GT
-- [ ] Gazella R
-- [ ] HW Warp Speeder
-- [ ] HW40
-- [ ] Hypertruck
-- [ ] Lotus Concept
-- [ ] Lotus Sport Elise
-- [ ] Maximizer
-- [ ] Pony-Up
-- [ ] Power 24-GT
-- [ ] Scorcher
-- [ ] Seared Tuner/Sho-Stopper
-- [ ] Slide Kick
-- [ ] Speed Dozer
-- [ ] Speed Trap
-- [ ] Spin King
-- [ ] Split Vision
-- [ ] Super Gnat
-- [ ] Tooned Lamborghini Countach
+- [ ] [Drift Rod](https://static.wikia.nocookie.net/hotwheels/images/f/f5/Drift_Rod_11of12.jpg/revision/latest?cb=20191209025740)
+- [ ] [Formula Street](https://static.wikia.nocookie.net/hotwheels/images/5/5b/FormulaStGold.jpg/revision/latest?cb=20141201050725)
+- [ ] [Furiosity](https://static.wikia.nocookie.net/hotwheels/images/3/34/Furiosity_FE_Blue_Open_Rear_Window.jpg/revision/latest?cb=20210312035109)
+- [ ] [Futurismo](https://static.wikia.nocookie.net/hotwheels/images/a/aa/Futurismo_-_16NM_HW_Race_Team_600pxOTD.jpg/revision/latest?cb=20160929000312)
+- [ ] [Gazella GT](https://static.wikia.nocookie.net/hotwheels/images/c/c4/Gazella_GT_2020_Trackset.jpg/revision/latest?cb=20210620072549)
+- [ ] [Gazella R](https://static.wikia.nocookie.net/hotwheels/images/a/aa/Orange_and_Blue_Series_%282021%29_Wave2_-_Gazella_R.jpg/revision/latest?cb=20210526152314)
+- [ ] [HW Warp Speeder](https://static.wikia.nocookie.net/hotwheels/images/7/74/2020NM04.JPG/revision/latest?cb=20190928233312)
+- [ ] [Lotus Sport Elise](https://static.wikia.nocookie.net/hotwheels/images/d/d7/-WV-_Lotus_Sport_Elise.jpg/revision/latest?cb=20140410000626)
+- [ ] [Maximizer](https://static.wikia.nocookie.net/hotwheels/images/9/99/99mcdmx1max.jpg/revision/latest?cb=20120811195826)
+- [ ] [Pony-Up](https://static.wikia.nocookie.net/hotwheels/images/6/6f/Flamin%27_hot_wheels_pony_up.jpg/revision/latest?cb=20100517143554)
+- [ ] [Power 24-GT](https://static.wikia.nocookie.net/hotwheels/images/7/70/Power24-GT.jpg/revision/latest?cb=20211026043035)
+- [ ] [Scorcher](https://static.wikia.nocookie.net/hotwheels/images/7/70/Power24-GT.jpg/revision/latest?cb=20211026043035)
+- [ ] [Seared Tuner/Sho-Stopper](https://static.wikia.nocookie.net/hotwheels/images/0/05/2002_084a.jpg/revision/latest?cb=20200424140247)
+- [ ] [Slide Kick](https://static.wikia.nocookie.net/hotwheels/images/1/11/SLIDE_KICK_GHF21.jpg/revision/latest?cb=20200906143327)
+- [ ] [Speed Dozer](https://static.wikia.nocookie.net/hotwheels/images/4/42/SpeedDozerDVF98.jpg/revision/latest?cb=20171020212758)
+- [ ] [Speed Trap](https://static.wikia.nocookie.net/hotwheels/images/f/fc/SpeedTrap-5pk-Police-2019.jpg/revision/latest?cb=20191005211747)
+- [ ] [Spin King](https://static.wikia.nocookie.net/hotwheels/images/9/98/Spin_King_2012_New_Model.JPG/revision/latest?cb=20121023021034)
+- [ ] [Split Vision](https://hotwheels.fandom.com/wiki/Split_Vision)
+- [ ] [Super Gnat](https://static.wikia.nocookie.net/hotwheels/images/3/30/2011HWTunerzSuperGnat.jpg/revision/latest?cb=20111019012402)
+- [ ] [Tooned Lamborghini Countach](https://static.wikia.nocookie.net/hotwheels/images/c/c6/Lamborghini_Countach_%27Tooned_2018_24.jpg/revision/latest?cb=20180909144856)
