@@ -11,7 +11,7 @@
 
 - [ ] [**_Car Culture 2022 Exotic Envy Lamborghini Essenza SCV12_**](https://static.wikia.nocookie.net/hotwheels/images/2/29/HCJ29.jpg/revision/latest/scale-to-width-down/1000?cb=20220815063854)
 - [ ] [**_Car Culture 2022 Ronin Run Mazda RX7 FC Pandem_**](https://static.wikia.nocookie.net/hotwheels/images/f/f6/HCJ86.jpg/revision/latest/scale-to-width-down/1000?cb=20221202095820)
-- [ ] [**_Entertainment Cyberpunk 2077 Porsche 911 Turbo_**](https://static.wikia.nocookie.net/hotwheels/images/7/7c/20220717_133330a.jpg/revision/latest?cb=20220720035214)
+- [x] [**_Entertainment Cyberpunk 2077 Porsche 911 Turbo_**](https://static.wikia.nocookie.net/hotwheels/images/7/7c/20220717_133330a.jpg/revision/latest?cb=20220720035214)
 - [ ] [Car Culture Gulf '69 Ford Mustang Boss 302](https://static.wikia.nocookie.net/hotwheels/images/f/f0/2019_Hot_Wheels_%2769_Ford_Mustang_Boss_302_Gulf.jpg/revision/latest?cb=20181208103349)
 - [ ] [Boulevard '71 Mustang Mach 1](https://static.wikia.nocookie.net/hotwheels/images/d/dd/LoganoMach1.jpg/revision/latest?cb=20220902114617)
 - [ ] [Boulevard De Tomaso Pantera Gruppo 4](https://static.wikia.nocookie.net/hotwheels/images/a/a6/DeTomasoPantera.jpg/revision/latest?cb=20220902114737)
@@ -181,3 +181,4 @@
 - [ ] [Split Vision](https://hotwheels.fandom.com/wiki/Split_Vision)
 - [ ] [Super Gnat](https://static.wikia.nocookie.net/hotwheels/images/3/30/2011HWTunerzSuperGnat.jpg/revision/latest?cb=20111019012402)
 - [ ] [Tooned Lamborghini Countach](https://static.wikia.nocookie.net/hotwheels/images/c/c6/Lamborghini_Countach_%27Tooned_2018_24.jpg/revision/latest?cb=20180909144856)
+- [ ] [2023 Exotique - Silencerz Custom](https://static.wikia.nocookie.net/hotwheels/images/c/ca/Exotique_TrackBuilder_2023.jpg/revision/latest/scale-to-width-down/1000?cb=20230205051621)
