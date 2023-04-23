@@ -11,7 +11,6 @@
 
 - [ ] [**_Car Culture 2022 Exotic Envy Lamborghini Essenza SCV12_**](https://static.wikia.nocookie.net/hotwheels/images/2/29/HCJ29.jpg/revision/latest/scale-to-width-down/1000?cb=20220815063854)
 - [ ] [**_Car Culture 2022 Ronin Run Mazda RX7 FC Pandem_**](https://static.wikia.nocookie.net/hotwheels/images/f/f6/HCJ86.jpg/revision/latest/scale-to-width-down/1000?cb=20221202095820)
-- [x] [**_Entertainment Cyberpunk 2077 Porsche 911 Turbo_**](https://static.wikia.nocookie.net/hotwheels/images/7/7c/20220717_133330a.jpg/revision/latest?cb=20220720035214)
 - [ ] [Car Culture Gulf '69 Ford Mustang Boss 302](https://static.wikia.nocookie.net/hotwheels/images/f/f0/2019_Hot_Wheels_%2769_Ford_Mustang_Boss_302_Gulf.jpg/revision/latest?cb=20181208103349)
 - [ ] [Boulevard '71 Mustang Mach 1](https://static.wikia.nocookie.net/hotwheels/images/d/dd/LoganoMach1.jpg/revision/latest?cb=20220902114617)
 - [ ] [Boulevard De Tomaso Pantera Gruppo 4](https://static.wikia.nocookie.net/hotwheels/images/a/a6/DeTomasoPantera.jpg/revision/latest?cb=20220902114737)
@@ -31,7 +30,7 @@
 - [ ] [**_Teku Chicane_**](https://static.wikia.nocookie.net/hotwheels/images/8/89/HW_ACR_Chicane.jpg/revision/latest?cb=20150716223502)
 - [ ] [**_2006 Clear Wheel Bassline_**](https://static.wikia.nocookie.net/hotwheels/images/6/60/2006BasslineTransparenttire.jpg/revision/latest?cb=20200509174640)
 - [ ] [Racing Drones RD-03](https://static.wikia.nocookie.net/hotwheels/images/3/3a/RD-03_Black.jpg/revision/latest?cb=20080506015825)
-- [ ] [Racing Drones RD-05](https://static.wikia.nocookie.net/hotwheels/images/6/64/RD-05.JPG/revision/latest?cb=20100217011338)
+- [x] [Racing Drones RD-05](https://static.wikia.nocookie.net/hotwheels/images/6/64/RD-05.JPG/revision/latest?cb=20100217011338)
 - [ ] [Racing Drones RD-10](https://static.wikia.nocookie.net/hotwheels/images/4/47/RD-10_Acceleracers_Racing_Drones.JPG/revision/latest?cb=20160823202412)
 - [ ] [Teku Reverb](https://static.wikia.nocookie.net/hotwheels/images/a/a1/Reverb-blue-cm6.jpg/revision/latest?cb=20090927210342)
 
@@ -68,14 +67,10 @@
 ### Speed Racer
 
 - [ ] [**_Delila Street Car_**](https://static.wikia.nocookie.net/hotwheels/images/4/45/FlyingFoxesFreight.JPG/revision/latest?cb=20080615045007)
-- [x] [**_Mach 4_**](https://static.wikia.nocookie.net/hotwheels/images/f/fd/Mach4.jpg/revision/latest?cb=20080410223637)
 - [ ] [3 Roses](https://static.wikia.nocookie.net/hotwheels/images/e/ea/3rosefront.jpg/revision/latest?cb=20210113050944)
 - [ ] [Gray Ghost Race Car](https://static.wikia.nocookie.net/hotwheels/images/3/3c/Grayghostracecar.jpg/revision/latest?cb=20080410223636)
 - [ ] [Kellie "Gearbox" Kalinkov](https://static.wikia.nocookie.net/hotwheels/images/2/24/Speed_Racer_Kellie_Kalinkov.jpg/revision/latest?cb=20210608052812)
 - [ ] [Masurai](https://static.wikia.nocookie.net/hotwheels/images/9/9b/SpeedRacerMasurai_%281%29.jpg/revision/latest?cb=20200508073543)
-- [x] [Musha Motors Race Car](https://static.wikia.nocookie.net/hotwheels/images/2/2c/Mushamotors.jpg/revision/latest?cb=20080410223638)
-- [x] [Prince Kabala Race Car](https://static.wikia.nocookie.net/hotwheels/images/c/cf/Princekabalaracecar.jpg/revision/latest?cb=20080410223638)
-- [x] [Snake Oiler Race Car](https://static.wikia.nocookie.net/hotwheels/images/e/ec/Snakeoiler.jpg/revision/latest?cb=20080410223639)
 - [ ] [Snake Oiler Street Car](https://static.wikia.nocookie.net/hotwheels/images/e/e3/Wave2-snakeoilerstreet.jpg/revision/latest?cb=20080615044243)
 - [ ] [Sonic "Boom Boom" Renaldi](https://static.wikia.nocookie.net/hotwheels/images/6/6d/Speed_Racer_Sonic_Boom.jpg/revision/latest?cb=20210608053522)
 - [ ] [Taejo Togokhan Street Car](https://static.wikia.nocookie.net/hotwheels/images/5/5e/Wave2-taejotogokhan.jpg/revision/latest?cb=20080615043458)
