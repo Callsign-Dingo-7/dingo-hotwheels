@@ -5,7 +5,6 @@
 
 ## Mainline [Carded preferred, not a requirement]
 
-- [ ] [2022 Spoiler Alert Custom 18 Ford Mustang GT](https://static.wikia.nocookie.net/hotwheels/images/3/31/HCV87-01.JPG/revision/latest?cb=20220607001723)
 
 ## Premium [Carded preferred, not a requirement]
 
@@ -17,7 +16,6 @@
 - [ ] [Car Culture Lamborghini Countach LP 5000 QV](https://static.wikia.nocookie.net/hotwheels/images/5/55/LamborghiniCountachLP5000.jpg/revision/latest?cb=20220908150623)
 - [ ] [Entertainment Loki Thanoscopter](https://static.wikia.nocookie.net/hotwheels/images/5/53/Thanoscopter2022.jpg/revision/latest?cb=20220513120804)
 - [ ] [Entertainment Spider-Mobile](https://static.wikia.nocookie.net/hotwheels/images/c/cb/Spider_Mobil-2018_Entertainment_Series-Mix_B.jpg/revision/latest?cb=20180901150318)
-- [ ] [Car Culture McLaren Senna](https://static.wikia.nocookie.net/hotwheels/images/4/4e/Premium_Car_Culture_2-Pack_McLaren_Senna_%26_McLaren_720S_Thailand_HFF97.jpg/revision/latest?cb=20230310143822)
 - [ ] [Car Culture Lexus RC F GT3](https://static.wikia.nocookie.net/hotwheels/images/f/f8/HKF51.jpg/revision/latest?cb=20230317055253)
 - [ ] [2016 Hot Wheels Entertainment Gran Turismo Ford GT1](https://static.wikia.nocookie.net/hotwheels/images/6/6b/Ford_GT_LM_-_16_Ent_Gran_Turismo_600pxOTD.jpg/revision/latest?cb=20161101062200)
 
@@ -29,7 +27,7 @@
 - [ ] [**_Silencerz Technetium_**](https://static.wikia.nocookie.net/hotwheels/images/4/4a/Silencerz_-_Technitium.jpg/revision/latest?cb=20111102052226)
 - [ ] [**_Teku Chicane_**](https://static.wikia.nocookie.net/hotwheels/images/8/89/HW_ACR_Chicane.jpg/revision/latest?cb=20150716223502)
 - [ ] [**_2006 Clear Wheel Bassline_**](https://static.wikia.nocookie.net/hotwheels/images/6/60/2006BasslineTransparenttire.jpg/revision/latest?cb=20200509174640)
-- [ ] [Racing Drones RD-03](https://static.wikia.nocookie.net/hotwheels/images/3/3a/RD-03_Black.jpg/revision/latest?cb=20080506015825)
+- [x] [Racing Drones RD-03](https://static.wikia.nocookie.net/hotwheels/images/3/3a/RD-03_Black.jpg/revision/latest?cb=20080506015825)
 - [x] [Racing Drones RD-05](https://static.wikia.nocookie.net/hotwheels/images/6/64/RD-05.JPG/revision/latest?cb=20100217011338)
 - [ ] [Racing Drones RD-10](https://static.wikia.nocookie.net/hotwheels/images/4/47/RD-10_Acceleracers_Racing_Drones.JPG/revision/latest?cb=20160823202412)
 - [ ] [Teku Reverb](https://static.wikia.nocookie.net/hotwheels/images/a/a1/Reverb-blue-cm6.jpg/revision/latest?cb=20090927210342)
@@ -54,7 +52,6 @@
 - [ ] [Scorchers Muscle Tone](https://static.wikia.nocookie.net/hotwheels/images/7/79/2003_World_Race_MuscleTone.jpg/revision/latest?cb=20150125175318)
 - [ ] [Scorchers Red Baron](https://static.wikia.nocookie.net/hotwheels/images/0/05/2003_World_Race_RedBaron.jpg/revision/latest?cb=20150125174440)
 - [ ] [Street Breed 24/Seven](https://static.wikia.nocookie.net/hotwheels/images/d/d6/24Seven_-_Hwy35.jpg/revision/latest?cb=20090621222354)
-- [x] [Street Breed Pontiac IROC Firebird](https://static.wikia.nocookie.net/hotwheels/images/9/97/IROC_Firebird_-_Hwy35.jpg/revision/latest?cb=20090621222402)
 - [ ] [Street Breed Pontiac Rageous](https://static.wikia.nocookie.net/hotwheels/images/4/4d/Rageous_-_Hwy35.jpg/revision/latest?cb=20090621222515)
 - [ ] [Street Breed Road Rocket](https://static.wikia.nocookie.net/hotwheels/images/c/c8/Road_Rocket_-_Hwy35.jpg/revision/latest?cb=20090621222359)
 - [ ] [Street Breed Side Draft](https://static.wikia.nocookie.net/hotwheels/images/9/9e/Side_Draft_-_Hwy35.jpg/revision/latest?cb=20090621222510)
@@ -89,6 +86,7 @@
 - [ ] [Mario Kart Baby Peach Pink Pipe-Frame](https://static.wikia.nocookie.net/hotwheels/images/4/42/Baby_peach_open.jpg/revision/latest?cb=20221007120015)
 - [ ] [Mario Kart Dry Bowser Standard Kart](https://static.wikia.nocookie.net/hotwheels/images/e/e9/Dry_bowser_standard.jpg/revision/latest?cb=20220920220214)
 - [ ] [Mario Kart Baby Mario Standard Kart](https://static.wikia.nocookie.net/hotwheels/images/d/de/Fhl2hnxkdsznidrlen32_1500x.webp/revision/latest?cb=20230317171956)
+- [ ] [Mario Kart Koopa Troop Circuit Special](https://static.wikia.nocookie.net/hotwheels/images/4/40/Koopa_circuit_car.jpg/revision/latest?cb=20220729234857)
 
 ### Designer's Challenge
 
