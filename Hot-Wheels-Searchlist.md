@@ -5,7 +5,6 @@
 
 ## Mainline [Carded preferred, not a requirement]
 
-
 ## Premium [Carded preferred, not a requirement]
 
 - [ ] [**_Car Culture 2022 Exotic Envy Lamborghini Essenza SCV12_**](https://static.wikia.nocookie.net/hotwheels/images/2/29/HCJ29.jpg/revision/latest/scale-to-width-down/1000?cb=20220815063854)
