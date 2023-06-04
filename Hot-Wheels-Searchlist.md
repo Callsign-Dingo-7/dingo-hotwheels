@@ -26,8 +26,7 @@
 - [ ] [**_Silencerz Technetium_**](https://static.wikia.nocookie.net/hotwheels/images/4/4a/Silencerz_-_Technitium.jpg/revision/latest?cb=20111102052226)
 - [ ] [**_Teku Chicane_**](https://static.wikia.nocookie.net/hotwheels/images/8/89/HW_ACR_Chicane.jpg/revision/latest?cb=20150716223502)
 - [ ] [**_2006 Clear Wheel Bassline_**](https://static.wikia.nocookie.net/hotwheels/images/6/60/2006BasslineTransparenttire.jpg/revision/latest?cb=20200509174640)
-- [x] [Racing Drones RD-03](https://static.wikia.nocookie.net/hotwheels/images/3/3a/RD-03_Black.jpg/revision/latest?cb=20080506015825)
-- [x] [Racing Drones RD-05](https://static.wikia.nocookie.net/hotwheels/images/6/64/RD-05.JPG/revision/latest?cb=20100217011338)
+- [x] [Racing Drones RD-03 Black](https://static.wikia.nocookie.net/hotwheels/images/3/3a/RD-03_Black.jpg/revision/latest?cb=20080506015825)
 - [ ] [Racing Drones RD-10](https://static.wikia.nocookie.net/hotwheels/images/4/47/RD-10_Acceleracers_Racing_Drones.JPG/revision/latest?cb=20160823202412)
 - [ ] [Teku Reverb](https://static.wikia.nocookie.net/hotwheels/images/a/a1/Reverb-blue-cm6.jpg/revision/latest?cb=20090927210342)
 
@@ -69,7 +68,6 @@
 - [ ] [Masurai](https://static.wikia.nocookie.net/hotwheels/images/9/9b/SpeedRacerMasurai_%281%29.jpg/revision/latest?cb=20200508073543)
 - [ ] [Snake Oiler Street Car](https://static.wikia.nocookie.net/hotwheels/images/e/e3/Wave2-snakeoilerstreet.jpg/revision/latest?cb=20080615044243)
 - [ ] [Sonic "Boom Boom" Renaldi](https://static.wikia.nocookie.net/hotwheels/images/6/6d/Speed_Racer_Sonic_Boom.jpg/revision/latest?cb=20210608053522)
-- [ ] [Taejo Togokhan Street Car](https://static.wikia.nocookie.net/hotwheels/images/5/5e/Wave2-taejotogokhan.jpg/revision/latest?cb=20080615043458)
 - [ ] [Thor-Axine Street Car](https://static.wikia.nocookie.net/hotwheels/images/c/c2/SpeedRacer-Thor-Axine.JPG/revision/latest?cb=20080615044731)
 - [ ] [Zoomishi](https://static.wikia.nocookie.net/hotwheels/images/6/62/Speed_Racer_Zoomishi.jpg/revision/latest?cb=20210608053606)
 
