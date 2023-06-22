@@ -25,7 +25,7 @@
 - [ ] [**_Racing Drones RD-02_**](https://static.wikia.nocookie.net/hotwheels/images/2/20/Rd02-black-cm6.jpg/revision/latest?cb=20090927174847)
 - [ ] [**_Teku Chicane_**](https://static.wikia.nocookie.net/hotwheels/images/8/89/HW_ACR_Chicane.jpg/revision/latest?cb=20150716223502)
 - [ ] [**_2006 Clear Wheel Bassline_**](https://static.wikia.nocookie.net/hotwheels/images/6/60/2006BasslineTransparenttire.jpg/revision/latest?cb=20200509174640)
-- [x] [Racing Drones RD-03 Black](https://static.wikia.nocookie.net/hotwheels/images/3/3a/RD-03_Black.jpg/revision/latest?cb=20080506015825)
+- [ ] [Racing Drones RD-03 Black](https://static.wikia.nocookie.net/hotwheels/images/3/3a/RD-03_Black.jpg/revision/latest?cb=20080506015825)
 - [ ] [Racing Drones RD-10](https://static.wikia.nocookie.net/hotwheels/images/4/47/RD-10_Acceleracers_Racing_Drones.JPG/revision/latest?cb=20160823202412)
 - [ ] [Teku Reverb](https://static.wikia.nocookie.net/hotwheels/images/a/a1/Reverb-blue-cm6.jpg/revision/latest?cb=20090927210342)
 
