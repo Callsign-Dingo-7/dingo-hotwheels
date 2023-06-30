@@ -74,7 +74,7 @@
 - [ ] [Mario Kart Baby Peach Pink Pipe-Frame](https://static.wikia.nocookie.net/hotwheels/images/4/42/Baby_peach_open.jpg/revision/latest?cb=20221007120015)
 - [ ] [Mario Kart Dry Bowser Standard Kart](https://static.wikia.nocookie.net/hotwheels/images/e/e9/Dry_bowser_standard.jpg/revision/latest?cb=20220920220214)
 - [ ] [Mario Kart Baby Mario Standard Kart](https://static.wikia.nocookie.net/hotwheels/images/d/de/Fhl2hnxkdsznidrlen32_1500x.webp/revision/latest?cb=20230317171956)
-- [ ] [Mario Kart Koopa Troop Circuit Special](https://static.wikia.nocookie.net/hotwheels/images/4/40/Koopa_circuit_car.jpg/revision/latest?cb=20220729234857)
+- [ ] [Mario Kart Koopa Troopa Circuit Special](https://static.wikia.nocookie.net/hotwheels/images/4/40/Koopa_circuit_car.jpg/revision/latest?cb=20220729234857)
 
 ### Designer's Challenge
 
