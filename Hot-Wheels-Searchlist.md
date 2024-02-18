@@ -1,17 +1,16 @@
 # Hot Wheels Searchlist
 
-- Items marked like **_this_** are my priority in that particular subset
+- Items marked in **_bold italics_** are my priority in that particular subset
 - Items marked with a checkmark are things I've acquired but don't have them in hand yet.
 
 ## Mainline [Carded preferred, not a requirement]
+
+Collecting these is on pause until further notice.
 
 ## Premium [Carded preferred, not a requirement]
 
 - [ ] [**_Car Culture 2022 Exotic Envy Lamborghini Essenza SCV12_**](https://static.wikia.nocookie.net/hotwheels/images/2/29/HCJ29.jpg/revision/latest/scale-to-width-down/1000?cb=20220815063854)
 - [ ] [**_Car Culture 2022 Ronin Run Mazda RX7 FC Pandem_**](https://static.wikia.nocookie.net/hotwheels/images/f/f6/HCJ86.jpg/revision/latest/scale-to-width-down/1000?cb=20221202095820)
-- [ ] [Car Culture Gulf '69 Ford Mustang Boss 302](https://static.wikia.nocookie.net/hotwheels/images/f/f0/2019_Hot_Wheels_%2769_Ford_Mustang_Boss_302_Gulf.jpg/revision/latest?cb=20181208103349)
-- [ ] [Boulevard '71 Mustang Mach 1](https://static.wikia.nocookie.net/hotwheels/images/d/dd/LoganoMach1.jpg/revision/latest?cb=20220902114617)
-- [ ] [Boulevard De Tomaso Pantera Gruppo 4](https://static.wikia.nocookie.net/hotwheels/images/a/a6/DeTomasoPantera.jpg/revision/latest?cb=20220902114737)
 - [ ] [Car Culture Lamborghini Countach LP 5000 QV](https://static.wikia.nocookie.net/hotwheels/images/5/55/LamborghiniCountachLP5000.jpg/revision/latest?cb=20220908150623)
 - [ ] [Entertainment Loki Thanoscopter](https://static.wikia.nocookie.net/hotwheels/images/5/53/Thanoscopter2022.jpg/revision/latest?cb=20220513120804)
 - [ ] [Entertainment Spider-Mobile](https://static.wikia.nocookie.net/hotwheels/images/c/cb/Spider_Mobil-2018_Entertainment_Series-Mix_B.jpg/revision/latest?cb=20180901150318)
@@ -89,7 +88,9 @@
 
 ## Treasure Hunts [Does not matter, so long as it is in good condition]
 
-- [ ] [**_2001 Roll Cage TH_**](https://static.wikia.nocookie.net/hotwheels/images/a/aa/Rolcage.jpg/revision/latest?cb=20090607080108)
+Collecting these is on pause until further notice.
+
+<!-- - [ ] [**_2001 Roll Cage TH_**](https://static.wikia.nocookie.net/hotwheels/images/a/aa/Rolcage.jpg/revision/latest?cb=20090607080108)
 - [ ] [**_2004 Tantrum TH_**](https://static.wikia.nocookie.net/hotwheels/images/8/86/Tantrum_04TH.JPG/revision/latest?cb=20100112112630)
 - [ ] [**_2006 Asphalt Assault TH_**](https://static.wikia.nocookie.net/hotwheels/images/1/1c/Asphalt_Assault_-_06TH.jpg/revision/latest?cb=20090621233406)
 - [ ] [**_2006 CUL8R TH_**](https://static.wikia.nocookie.net/hotwheels/images/3/36/CUL8R_-_06TH.jpg/revision/latest?cb=20090621232959)
@@ -116,11 +117,13 @@
 - [ ] [2023 '68 COPO Camaro STH](https://static.wikia.nocookie.net/hotwheels/images/8/8f/%2768COPOCamaro.jpg/revision/latest?cb=20221126144947)
 - [ ] [2023 Lotus Evija STH](https://static.wikia.nocookie.net/hotwheels/images/2/21/78bccf5402cbd84fbcf3691f00711b5.jpg/revision/latest?cb=20221126145109)
 - [ ] [2023 Renault Sport R.S.01 STH](https://static.wikia.nocookie.net/hotwheels/images/a/ab/Renault_sport_rs.jpg/revision/latest?cb=20230112103907)
-- [ ] [2023 '82 Toyota Supra STH](https://static.wikia.nocookie.net/hotwheels/images/6/68/%2782_toyota_supra.jpg/revision/latest?cb=20230227022302)
+- [ ] [2023 '82 Toyota Supra STH](https://static.wikia.nocookie.net/hotwheels/images/6/68/%2782_toyota_supra.jpg/revision/latest?cb=20230227022302) -->
 
 ## General [Does not matter, so long as it is in good condition]
 
-- [ ] [1970 Jack Rabbit Special](https://static.wikia.nocookie.net/hotwheels/images/1/16/Jackrabbitspecial.jpg/revision/latest?cb=20080312162750)
+Collecting these is on pause until further notice.
+
+<!-- - [ ] [1970 Jack Rabbit Special](https://static.wikia.nocookie.net/hotwheels/images/1/16/Jackrabbitspecial.jpg/revision/latest?cb=20080312162750)
 - [ ] [2003 Tooned HKS Altezza](https://static.wikia.nocookie.net/hotwheels/images/5/5b/HKS_Altezza_blkL.JPG/revision/latest?cb=20100707040212)
 - [ ] [2003 Tooned Mitsubishi Eclipse](https://static.wikia.nocookie.net/hotwheels/images/8/8a/03_Eclipse.jpg/revision/latest?cb=20081201204834)
 - [ ] [2004 Tooned Toyota MR2](https://static.wikia.nocookie.net/hotwheels/images/c/c5/WhiteMR2.jpg/revision/latest?cb=20100502101438)
@@ -162,4 +165,4 @@
 - [ ] [Split Vision](https://hotwheels.fandom.com/wiki/Split_Vision)
 - [ ] [Super Gnat](https://static.wikia.nocookie.net/hotwheels/images/3/30/2011HWTunerzSuperGnat.jpg/revision/latest?cb=20111019012402)
 - [ ] [Tooned Lamborghini Countach](https://static.wikia.nocookie.net/hotwheels/images/c/c6/Lamborghini_Countach_%27Tooned_2018_24.jpg/revision/latest?cb=20180909144856)
-- [ ] [2023 Exotique - Silencerz Custom](https://static.wikia.nocookie.net/hotwheels/images/c/ca/Exotique_TrackBuilder_2023.jpg/revision/latest/scale-to-width-down/1000?cb=20230205051621)
+- [ ] [2023 Exotique - Silencerz Custom](https://static.wikia.nocookie.net/hotwheels/images/c/ca/Exotique_TrackBuilder_2023.jpg/revision/latest/scale-to-width-down/1000?cb=20230205051621) -->
